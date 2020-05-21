@@ -1,0 +1,4 @@
+This repository contains Mathematica code used to examine the effects of predator interference on the coexistence and 
+net effects of prey that share a predator on one another. The models use either the Beddington-DeAngelis (BD) or 
+Crowley-Martin (CM) functional responses and examine the cases when prey compete directly with one another and when
+they do not interact directly.
